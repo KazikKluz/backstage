@@ -30,8 +30,7 @@ backend:
 
 auth:
   providers:
-    github:
-      production: clientId
+    github: production clientId eee
 
 catalog:
   # Overrides the default list locations from app-config.yaml as these contain example data.
